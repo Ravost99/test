@@ -38,6 +38,6 @@ body:
   - type: textarea
     id: logs
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      label: Console output
+      description: Please copy and paste any relevant stuff in the console. Will be automatically formatted.
       render: shell
